@@ -1,4 +1,4 @@
-# 👋 Welcome to InsidePlugins
+# 👋 欢迎来到 InsidePlugins
 
 ThatRarityEG 道席曾著[《PluginDiary 插件开发教程》](https://www.mcbbs.net/thread-1163259-1-3.html)一十卷。津逮后生，行远自迩；珊瑚铁网，钜细包罗。开发之流程，已然统贯；插件之体例，自是全齐。其书则刺凤描鸾，其人则惊才绝艳；高山仰止，难与并能。秉河、洛之琼田，嵩、华之玉鉴，浮游尘垢，涅而不缁。微软并购魔赞社以来，网易代理中国区之后，春秋迭代，社稷陵夷。小马不言，缄口三月。固已少微处士、天山逸民。然则腐竹锒铛、视频下架，将非西河除馆，以惧季孙氏乎！不从网易，其孰与归？
 
@@ -14,22 +14,4 @@ ThatRarityEG 道席曾著有[《PluginDiary 插件开发教程》](https://www.m
 
 开列全体贡献者名单（以字母为序）：
 
-馋猫: [https://github.com/yinghaoting](https://github.com/yinghaoting)
-
-Deer403: [https://github.com/Deer403](https://github.com/Deer403)
-
-Gryph: [https://github.com/gryphs](https://github.com/gryphs)
-
-Katorly: [https://github.com/katorly](https://github.com/katorly)
-
-Mochizuki Haruka: [https://github.com/KouyouX](https://github.com/KouyouX)
-
-南门阳德: [https://github.com/nanmenyangde](https://github.com/nanmenyangde)
-
-Rain_Effect [https://github.com/RainEffect](https://github.com/RainEffect)
-
-RawDiamondMC [https://github.com/RawDiamondMC](https://github.com/RawDiamondMC)
-
-TalexDreamSoul [https://github.com/TalexDreamSoul](https://github.com/TalexDreamSoul)
-
-笺舟: [https://github.com/William-Shi233](https://github.com/William-Shi233)
+[馋猫](https://github.com/yinghaoting)、[Deer403](https://github.com/Deer403)、[Gryph](https://github.com/gryphs)、[Katorly](https://github.com/katorly)、[Mochizuki Haruka](https://github.com/KouyouX)、[南门阳德](https://github.com/nanmenyangde)、[Rain_Effect](https://github.com/RainEffect)、[RawDiamondMC](https://github.com/RawDiamondMC)、[TalexDreamSoul](https://github.com/TalexDreamSoul)、[笺舟](https://github.com/William-Shi233)
