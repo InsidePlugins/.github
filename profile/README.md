@@ -14,4 +14,4 @@ ThatRarityEG 道席曾著有《PluginDiary 插件开发教程》，计入卷首�
 
 开列全体贡献者名单（以字母为序）：
 
-[馋猫](https://github.com/yinghaoting)、[Deer403](https://github.com/Deer403)、[Gryph](https://github.com/gryphs)、[Katorly](https://github.com/katorly)、[Mochizuki Haruka](https://github.com/KouyouX)、[南门阳德](https://github.com/nanmenyangde)、[Rain_Effect](https://github.com/RainEffect)、[RawDiamondMC](https://github.com/RawDiamondMC)、[TalexDreamSoul](https://github.com/TalexDreamSoul)、[笺舟](https://github.com/William-Shi233)
+[Anvil](https://github.com/Super-XiaoNian)、[馋猫](https://github.com/yinghaoting)、[Deer403](https://github.com/Deer403)、[Gryph](https://github.com/gryphs)、[Katorly](https://github.com/katorly)、[Mochizuki Haruka](https://github.com/KouyouX)、[南门阳德](https://github.com/nanmenyangde)、[Rain_Effect](https://github.com/RainEffect)、[RawDiamondMC](https://github.com/RawDiamondMC)、[TalexDreamSoul](https://github.com/TalexDreamSoul)、[笺舟](https://github.com/William-Shi233)
