@@ -12,6 +12,10 @@
 
 [PluginDiary 的旧入口（今日尚且有效，但内容已失修）](https://plugin-diary.pages.dev)
 
+[PluginDiary 的 GitHub 仓库（教程正文部分）](https://github.com/Andy-K-Sparklight/PluginDiary)
+
+[PluginDiary 的 GitHub 仓库（代码示例部分）](https://github.com/Andy-K-Sparklight/PluginDiaryCode)
+
 [InsidePlugins 成员列表](https://plugindiary.pvpin.org/docs/about/TeamPage.html)
 
 [InsidePlugins 卷首页面](https://plugindiary.pvpin.org/docs/src/Volume0/Preface.html)
