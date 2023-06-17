@@ -16,6 +16,6 @@
 
 [PluginDiary 的 GitHub 仓库（代码示例部分）](https://github.com/Andy-K-Sparklight/PluginDiaryCode)
 
-[InsidePlugins 成员列表](https://plugindiary.pvpin.org/docs/about/TeamPage.html)
+[InsidePlugins 成员列表](https://plugindiary.pvpin.org/about/TeamPage.html)
 
-[InsidePlugins 卷首页面](https://plugindiary.pvpin.org/docs/src/Volume0/Preface.html)
+[InsidePlugins 卷首页面](https://plugindiary.pvpin.org/Volume0/HomePage_Original.html)
